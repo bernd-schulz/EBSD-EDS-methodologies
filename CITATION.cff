@@ -17,7 +17,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-7682-5899"
 title: "Advanced EBSD-EDS methodologies"
 version: 8.0
-doi: **.*****/*****.***
+doi: 
 date-released: 2022-10-25
 url: "https://github.com/bernd-schulz/EBSD-EDS-methodologies"
 preferred-citation:
@@ -37,7 +37,7 @@ preferred-citation:
   - family-names: "Primig"
     given-names: "Sophie"
     orcid: "https://orcid.org/0000-0002-7682-5899"
-   doi: ""
+   doi: 
     journal: "Ultramicroscopy"
     month: 
     start: 
