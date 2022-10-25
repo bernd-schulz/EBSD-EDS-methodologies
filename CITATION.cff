@@ -21,28 +21,28 @@ doi: **.*****/*****.***
 date-released: 2022-10-25
 url: "https://github.com/bernd-schulz/EBSD-EDS-methodologies"
 preferred-citation:
-  type: article
-  authors:
-	- family-names: "Schulz"
-  	given-names: "Bernd"
-  	orcid: "https://orcid.org/0000-0001-9096-4564"
-	- family-names: "Nima"
-  	given-names: "Haghdadi"
-  	orcid: "https://orcid.org/0000-0002-2163-8949"
-	- family-names: "Leitner"
-  	given-names: "Thomas"
- 	orcid: "https://orcid.org/0000-0003-3861-3438"
-	- family-names: "Hafok"
-  	given-names: "Martin"
-	- family-names: "Primig"
-  	given-names: "Sophie"
-  	orcid: "https://orcid.org/0000-0002-7682-5899"
-  doi: "10.0000/00000"
+type: article
+authors:
+- family-names: "Schulz"
+  given-names: "Bernd"
+  orcid: "https://orcid.org/0000-0001-9096-4564"
+- family-names: "Nima"
+  given-names: "Haghdadi"
+  orcid: "https://orcid.org/0000-0002-2163-8949"
+- family-names: "Leitner"
+  given-names: "Thomas"
+ orcid: "https://orcid.org/0000-0003-3861-3438"
+- family-names: "Hafok"
+  given-names: "Martin"
+- family-names: "Primig"
+  given-names: "Sophie"
+  orcid: "https://orcid.org/0000-0002-7682-5899"
+ doi: ""
   journal: "Ultramicroscopy"
-  month: *
-  start: * # First page number
-  end: ** # Last page number
+  month: 
+  start: 
+  end: 
   title: "Advancing analytical electron microscopy methodologies to characterise microstructural features in superalloys"
-  issue: *
+  issue: 
   volume: "under review"
   year: 2022
