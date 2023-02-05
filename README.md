@@ -13,7 +13,7 @@ datasets using the MTEX toolbox for Matlab. Further, sample datasets and tutoria
 The numbering of the tutorials corresponds with the section numbers in the paper.
 
 Explanation of the underlying methodologies are published here:
-[1] B. Schulz, N. Haghdadi, T. Leitner, M. Hafok, S. Primig, Advancing analytical electron microscopy methodologies to characterise microstructural features in superalloys, Ultramicroscopy. submitted for review (2022).
+[1] B. Schulz, N. Haghdadi, T. Leitner, M. Hafok, S. Primig, Advancing analytical electron microscopy methodologies to characterise microstructural features in superalloys, Ultramicroscopy (2023), 113699, [https://doi.org/10.1016/j.ultramic.2023.113699](https://doi.org/10.1016/j.ultramic.2023.113699).
 
 This work © 2022 by B. Schulz et al. is licensed under a [GNU General Public License v3.0 (GPL-3.0-or-later)](https://www.gnu.org/licenses/gpl-3.0-standalone.html). To attribute the material to the creators, please cite the above mentioned paper B. Schulz et al. [1].
 
