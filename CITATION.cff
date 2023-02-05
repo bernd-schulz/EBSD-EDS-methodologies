@@ -37,12 +37,8 @@ preferred-citation:
   - family-names: "Primig"
     given-names: "Sophie"
     orcid: "https://orcid.org/0000-0002-7682-5899"
-  doi: ""
+  doi: "10.1016/j.ultramic.2023.113699"
   journal: "Ultramicroscopy"
-  month: 
-  start: 
-  end:
-  title: "Advancing analytical electron microscopy methodologies to characterise microstructural features in superalloys (submitted for review)"
-  issue: 
-  volume:
-  year: 2022
+  title: "Advancing analytical electron microscopy methodologies to characterise microstructural features in superalloys"
+  issue: 113699
+  year: 2023
